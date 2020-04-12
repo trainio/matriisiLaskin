@@ -1,0 +1,20 @@
+
+Matriisilaskin
+
+1. Kirjoita laskettava matriisi tiedostoon "matriisi.txt". Käytä seuraavaa muotoa:
+esim. 3x3 matriisi
+
+1 3 2
+2 3 1
+2 3 4
+
+Matriisissa tulee olla yhtä monta saraketta kuin riviä. 
+Jokainen numero erotetaan välilyönnillä ja desimaalin merkkinä käytetään pistettä.
+
+2. Käynnistä "matriisiLaskin" ohjelma
+2.1. Valitse normalisointi kirjoittamalla (k=kyllä / e=ei), paina enter
+2.2. Kirjoita matriisin koko (eli rivien määrä), paina enter
+2.3. Kirjoita haluttu potenssi, paina enter
+
+3. Ohjelma sulkeutuu itsestään ja tulos tallennetaan erilliseen tekstitiedostoon nimeltä "tulos.txt". 
+Tiedosto löytyy samasta kansiosta kuin "matriisiLaskin" ohjelma ja "matriisi.txt".
