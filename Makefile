@@ -12,14 +12,14 @@ LFLAGS		=
 
 #  listaa käytettävät kirjastot
 # esim. LIBS	= -lmyextrafunctions
-LIBS		=
+LIBS		= -lm
 
 # listaa "binary object files" .o tiedostot joita projekti vaatii
 # esim. OBJFILES= program.o extrafunction.o
 OBJFILES	= program.o
 
 # nimeä valmis ohjelma
-MAIN		= myApp
+MAIN		= matriisiLaskin
 
 
 
